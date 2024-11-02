@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463710307490",
+    "project_id": "grad-911d2",
+    "storage_bucket": "grad-911d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463710307490:android:13e3b00700e5ee7ae8c3fb",
+        "android_client_info": {
+          "package_name": "com.example.jdny_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFvyJbi8keuvc3j_WPNb2ty3NxO5bmP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
